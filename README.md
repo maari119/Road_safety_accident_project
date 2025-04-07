@@ -97,6 +97,3 @@ The Jupyter notebook `ammar_data_analysis.ipynb` is organized into the following
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-- UK Department for Transport for providing the accident data
-- Contributors to the pandas, scikit-learn, and visualization libraries that made this analysis possible
