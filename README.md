@@ -75,9 +75,10 @@ scikit-learn
    - Accident_Information.csv
    - Vehicle_Information.csv
 
-4. Launch Jupyter Notebook:
+4. Launch Jupyter Notebook or use the google colab for ease:
    ```
    jupyter notebook
+   google colab
    ```
 
 5. Open and run `ammar_data_analysis.ipynb`
@@ -92,12 +93,6 @@ The Jupyter notebook `ammar_data_analysis.ipynb` is organized into the following
 5. **Machine Learning Models**: Building and evaluating predictive models
 6. **Advanced Techniques**: Addressing class imbalance in accident severity
 7. **Results and Evaluation**: Model performance and feature importance
-
-## Future Work
-- Incorporate additional datasets such as road infrastructure and traffic volume
-- Explore spatial analysis using geographic data
-- Develop interactive dashboards for exploring accident patterns
-- Implement more advanced modeling techniques such as deep learning
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
